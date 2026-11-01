@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate here
 - 📫 Reach me on github and facebook
 - 😄 Pronouns: gm fam
-- ⚡ Fun fact: cat meme and nft creator
+- ⚡ Fun fact: 
 
 <!---
 sunarus/sunarus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
