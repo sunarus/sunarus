@@ -2,7 +2,7 @@
 - 👀 I’m interested in privacy, logistic app builder and bot maker
 - 🌱 I’m currently learning linux, etc
 - 💞️ I’m looking to collaborate here
-- 📫 Reach me on github 
+- 📫 Reach me on github and facebook
 - 😄 Pronouns: gm fam
 - ⚡ Fun fact: meme and nft creator
 
