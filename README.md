@@ -2,7 +2,7 @@
 - 👀 I’m interested in privacy, logistic app and bot
 - 🌱 I’m currently learning linux, etc
 - 💞️ I’m looking to collaborate here
-- 📫 Reach me github 
+- 📫 Reach me on github 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
