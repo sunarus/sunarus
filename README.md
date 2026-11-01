@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sunarus
-- 👀 I’m interested in privacy, logistic app and bot
+- 👀 I’m interested in privacy, logistic app builder and bot maker
 - 🌱 I’m currently learning linux, etc
 - 💞️ I’m looking to collaborate here
 - 📫 Reach me on github 
