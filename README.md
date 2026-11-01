@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning linux, etc
 - 💞️ I’m looking to collaborate here
 - 📫 Reach me on github 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: gm fam
+- ⚡ Fun fact: meme and nft creator
 
 <!---
 sunarus/sunarus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
