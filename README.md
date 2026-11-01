@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sunarus
-- 👀 I’m interested in privacy and bot
-- 🌱 I’m currently learning linux app
+- 👀 I’m interested in privacy, logistic app and bot
+- 🌱 I’m currently learning linux, etc
 - 💞️ I’m looking to collaborate here
-- 📫 How to reach me on github 
+- 📫 Reach me github 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
